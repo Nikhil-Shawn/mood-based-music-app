@@ -33,7 +33,7 @@ A web application that curates music playlists based on your mood. Built with a 
 ### **Frontend**  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/mood-music-player.git](https://github.com/Nikhil-Shawn/mood-based-music-app.git)
+   git clone https://github.com/Nikhil-Shawn/mood-based-music-app.git
    cd mood-music-player/frontend
    ```  
 2. Install dependencies:  
